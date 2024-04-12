@@ -5,8 +5,7 @@
 ## Bem-vindo à MRI Qbox Brasil 🇧🇷
 Nossa organização está empenhada em trazer a framework Qbox (Qbcore + Oxcore) para a comunidade brasileira de FiveM. Trabalhamos incansavelmente para adaptar e traduzir esta framework, tornando-a acessível e funcional para os servidores de FiveM no Brasil. Estamos colaborando estreitamente com a equipe internacional da Qbox, que já está fazendo um ótimo trabalho com questões de segurança do servidor e otimização em geral. Acompanhe nossos esforços e contribua conosco neste projeto emocionante!
 
-
-<a href="[https://discord.gg/Z6Whda5hH](https://discord.gg/uEfGD4mmVh)A"><img src="https://discordapp.com/api/guilds/1210457748073091072/widget.png?style=banner4"></a>
+<iframe src="https://discord.com/widget?id=1210457748073091072&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## [PT-BR] Sobre o Projeto Qbox
 Qbox é um core avançado, frequentemente referido como uma framework, focado em fornecer recursos de alta qualidade e padrões da indústria. A otimização e a segurança do código são de suma importância para nós. Estamos focados em recursos dignos de RolePlay, utilizáveis na plataforma FiveM, mas também aplicáveis para outros fins além do RolePlay.
