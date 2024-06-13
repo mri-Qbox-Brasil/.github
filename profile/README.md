@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="158" height="158" src="https://github.com/Qbox-project/.github/assets/22198949/bfc4ad22-d1ad-4b4f-8c61-a01d45d22969"> & <img width="158" height="158" src="https://media.discordapp.net/attachments/1227489601925550150/1227656228579180554/Brasil__96_x_96_px___1080_x_1080_px_-removebg.png?ex=662932f5&is=6616bdf5&hm=0c1e0e6fec83139a3e7251541ebe5d4cb44293951c0d6f8e4a6ec6c55683e9d0">
+  <img width="158" height="158" src="https://github.com/Qbox-project/.github/assets/22198949/bfc4ad22-d1ad-4b4f-8c61-a01d45d22969"> & <img width="158" height="158" src="https://mri-qbox-brasil.github.io/mri_assets/branding/logo1080.png">
 </p>
 
 ## Bem-vindo à mri Qbox Brasil 🇧🇷
