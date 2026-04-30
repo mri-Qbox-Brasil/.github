@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="158" height="158" src="https://github.com/Qbox-project/.github/assets/22198949/bfc4ad22-d1ad-4b4f-8c61-a01d45d22969"> & <img width="158" height="158" src="https://mri-qbox-brasil.github.io/mri_assets/branding/logo1080.png">
+  <img width="158" height="158" src="https://github.com/Qbox-project/.github/assets/22198949/bfc4ad22-d1ad-4b4f-8c61-a01d45d22969"> & <img width="158" height="158" src="https://assets.mriqbox.com.br/branding/logo1080.png">
 </p>
 
 ## Bem-vindo à mri Qbox Brasil 🇧🇷
-Nossa organização está empenhada em trazer a framework Qbox (Qbcore + Ox) para a comunidade brasileira de FiveM. Trabalhamos incansavelmente para adaptar e traduzir esta framework, tornando-a acessível e funcional para os servidores de FiveM no Brasil. Estamos colaborando estreitamente com a equipe internacional da Qbox, que já está fazendo um ótimo trabalho com questões de segurança do servidor e otimização em geral. Acompanhe nossos esforços e contribua conosco neste projeto emocionante!
+Nossa organização está empenhada em trazer a framework Qbox (Qbcore + Ox) adaptada para o estilo de jogabilidade da comunidade brasileira de FiveM. Trabalhamos incansavelmente para adaptar e traduzir esta framework, tornando-a acessível e funcional para os servidores de FiveM no Brasil. Estamos colaborando estreitamente com a equipe internacional da Qbox, que já está fazendo um ótimo trabalho com questões de segurança do servidor e otimização em geral. Acompanhe nossos esforços e contribua conosco neste projeto emocionante!
 
 Acesse a documentação oficial [aqui](https://docs.mriqbox.com.br)
 
