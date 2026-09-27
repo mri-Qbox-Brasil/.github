@@ -1,26 +1,61 @@
-<p align="center">
-  <img width="158" height="158" src="https://github.com/Qbox-project/.github/assets/22198949/bfc4ad22-d1ad-4b4f-8c61-a01d45d22969"> & <img width="158" height="158" src="https://assets.mriqbox.com.br/branding/logo1080.png">
-</p>
+<div align="center">
+  <img src="https://assets.mriqbox.com.br/branding/logo1080.png" width="130" height="130" alt="MRI Brasil Logo" />
 
-## Bem-vindo à mri Qbox Brasil 🇧🇷
-Nossa organização está empenhada em trazer a framework Qbox (Qbcore + Ox) adaptada para o estilo de jogabilidade da comunidade brasileira de FiveM. Trabalhamos incansavelmente para adaptar e traduzir esta framework, tornando-a acessível e funcional para os servidores de FiveM no Brasil. Estamos colaborando estreitamente com a equipe internacional da Qbox, que já está fazendo um ótimo trabalho com questões de segurança do servidor e otimização em geral. Acompanhe nossos esforços e contribua conosco neste projeto emocionante!
+  <h1>MRI Brasil 🇧🇷</h1>
+  <p><strong>Comunidade brasileira focada no desenvolvimento e adaptação da framework Qbox para FiveM.</strong></p>
 
-Acesse a documentação oficial [aqui](https://docs.mriqbox.com.br)
+  <p>
+    <a href="https://mriqbox.com.br"><img src="https://img.shields.io/badge/Website-mriqbox.com.br-007acc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://docs.mriqbox.com.br"><img src="https://img.shields.io/badge/Docs-docs.mriqbox.com.br-28a745?style=for-the-badge&logo=gitbook&logoColor=white" alt="Documentação" /></a>
+    <a href="https://discord.mriqbox.com.br"><img src="https://img.shields.io/badge/Discord-Comunidade-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-GPL--3.0-orange?style=for-the-badge" alt="Licença" /></a>
+  </p>
+</div>
 
-[![Discord](https://discordapp.com/api/guilds/1210457748073091072/widget.png?style=banner2)](https://discord.gg/Z6Whda5hHA)
+---
 
-## [PT-BR] Sobre o Projeto Qbox
-Qbox é um core avançado, frequentemente referido como uma framework, focado em fornecer recursos de alta qualidade e padrões da indústria. A otimização e a segurança do código são de suma importância para nós. Estamos focados em recursos dignos de RolePlay, utilizáveis na plataforma FiveM, mas também aplicáveis para outros fins além do RolePlay.
+## 🇧🇷 Sobre o Grupo MRI Brasil
 
-Você também pode nos encontrar na plataforma RedM [aqui](https://github.com/QRCore-RedM-Re).
+O **MRI Brasil** é uma organização dedicada a impulsionar e adaptar a framework **Qbox** para o ecossistema e estilo de jogabilidade da comunidade brasileira de FiveM.
 
-Para suporte, junte-se ao nosso servidor Discord ou consulte a [documentação oficial](http://qbox-project.github.io)!
+Nosso foco é fornecer traduções completas, melhorias de usabilidade, utilitários exclusivos e compatibilidade nativa com as ferramentas da **Overextended (Ox)**, mantendo proximidade com o projeto internacional da Qbox para assegurar máxima segurança, integridade e otimização.
 
-## [EN] Qbox Project
-Qbox is an advanced core with a load of bloat. Commonly known as a Framework. Aiming to deliver high quality and industry standard resources. Optimisation and Code security are of the upmost importance too us. Focused on RolePlay worthy resources that are usable on the FiveM platform. But also usable for other purposes besides RolePlay.
+---
 
-You can also find us on the RedM platform [here](https://github.com/QRCore-RedM-Re)
+## ⚡ Por que a Framework Qbox?
 
-You can ask for support in our Discord server, or read our [documentation](http://qbox-project.github.io)!
+A **Qbox** é uma evolução modular e de alta performance derivada do QBCore, desenvolvida para entregar padrões modernos à indústria de Roleplay:
 
-<a href="https://discord.gg/Z6Whda5hHA"><img src="https://discordapp.com/api/guilds/1012753553418354748/widget.png?style=banner4"></a>
+- 🚀 **Leve e Otimizada:** Sem excessos de dependências antigas, priorizando baixo consumo de resmon no cliente e no servidor.
+- 📦 **Integração com Ox:** Desenhada nativamente para operar em conjunto com `ox_lib`, `ox_inventory` e `ox_target`.
+- 🇧🇷 **Localização Completa:** Adaptada pelo grupo MRI Brasil com suporte, documentação e recursos configurados em Português (PT-BR).
+- 🛠️ **Fácil Configuração:** Compatível com instaladores automatizados e receitas diretas para txAdmin.
+
+---
+
+## 🔗 Links Úteis
+
+- 🌐 **Site Oficial:** [mriqbox.com.br](https://mriqbox.com.br)
+- 📚 **Documentação em PT-BR:** [docs.mriqbox.com.br](https://docs.mriqbox.com.br)
+- 💬 **Discord MRI Brasil:** [discord.mriqbox.com.br](https://discord.mriqbox.com.br)
+- 🔴 **Qbox Internacional:** [docs.qbox.re](https://docs.qbox.re)
+
+---
+
+## 🌍 [EN] About MRI Brasil & Qbox Framework
+
+**MRI Brasil** is an open-source group dedicated to bringing, localizing, and maintaining the **Qbox framework** within the Brazilian FiveM ecosystem.
+
+The **Qbox framework** is a modern, modular, and bloat-free core built on top of the Overextended ecosystem and modern Lua/TypeScript standards. It delivers high performance, strong server-side security, and reliability for RP servers and custom multiplayer projects.
+
+- 📖 **Global Qbox Docs:** [docs.qbox.re](https://docs.qbox.re)
+- 💬 **Global Qbox Discord:** [discord.gg/qbox](https://discord.gg/qbox)
+- 🤠 **RedM Core:** [QRCore Project](https://github.com/QRCore-RedM-Re)
+
+---
+
+<div align="center">
+  <a href="https://discord.mriqbox.com.br">
+    <img src="https://discordapp.com/api/guilds/1210457748073091072/widget.png?style=banner2" alt="MRI Brasil Discord Banner" />
+  </a>
+</div>
